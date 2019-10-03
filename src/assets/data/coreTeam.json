@@ -1,6 +1,24 @@
 [
     {
-        "name":"Name",
+        "name":"Vighnesh S",
+        "designation":"Lead",
+        "twitter":"https://twitter.com/vrijrajsingh",
+        "linkedin":"https://www.linkedin.com/in/vrijraj",
+        "github":"https://github.com/Vrijraj",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Anugeeth A",
+        "designation":"Back End Developer",
+        "twitter":"https://twitter.com/vrijrajsingh",
+        "linkedin":"https://www.linkedin.com/in/vrijraj",
+        "github":"https://github.com/Vrijraj",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Neeraj KV",
         "designation":"Front End Developer",
         "twitter":"https://twitter.com/vrijrajsingh",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
@@ -9,26 +27,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Pavith",
+        "designation":"Content & Media Team",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
@@ -36,8 +36,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Yeduram Vijayaraghavan",
+        "designation":"Management Team",
         "twitter":"https://twitter.com/vrijrajsingh",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
@@ -45,8 +45,8 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Amal PK",
+        "designation":"Documentation Team",
         "twitter":"https://twitter.com/vrijrajsingh",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
